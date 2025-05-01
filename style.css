@@ -1,0 +1,35 @@
+h1 {
+
+color:white;
+
+}
+
+
+body {
+
+background-color:lightblue;
+
+
+}
+
+p {
+	color:white;
+}
+
+li {
+
+	color:white;
+}
+
+a:link, a:visited {
+  background-color: white;
+  color: lightblue;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: white;
+}
